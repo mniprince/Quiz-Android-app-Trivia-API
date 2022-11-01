@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question">QUESTION-</string>
+    <string name="total_question">Total QUESTION-</string>
+    <string name="total_score">Total Score-</string>
+    <string name="select_category_level">Select Category</string>
+    <string name="select_difficulty_level">Select Difficulty Level</string>
+    <string name="select_quantity_level">Select Question Quantity</string>
+</resources>
